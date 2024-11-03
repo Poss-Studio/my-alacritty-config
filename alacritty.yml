@@ -1,20 +1,17 @@
 font:
-  # 常规字体
-  # 字体大小
+
   size: 12
   normal:
-    # family: Hack
-    # family: "Sarasa Mono SC"
-    family: "jetbrains mono"  #目前的版本不支持连字
-    # 字体风格
+
+    family: "jetbrains mono"  
+
     style: Regular
 
-  # 粗体
   bold:
     family: "jetbrains mono"
     style: Bold
 
-  # 斜体
+
   italic:
     family: jetbrains mono
     style: Italic
